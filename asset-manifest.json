@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/contactmanager/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/contactmanager/static/js/main.23ac5af7.chunk.js",
-    "main.js.map": "/contactmanager/static/js/main.23ac5af7.chunk.js.map",
-    "runtime-main.js": "/contactmanager/static/js/runtime-main.7557c545.js",
-    "runtime-main.js.map": "/contactmanager/static/js/runtime-main.7557c545.js.map",
-    "static/css/2.69121389.chunk.css": "/contactmanager/static/css/2.69121389.chunk.css",
-    "static/js/2.8bcf9d0b.chunk.js": "/contactmanager/static/js/2.8bcf9d0b.chunk.js",
-    "static/js/2.8bcf9d0b.chunk.js.map": "/contactmanager/static/js/2.8bcf9d0b.chunk.js.map",
-    "index.html": "/contactmanager/index.html",
-    "precache-manifest.6778c44edbf19bfc11c331a29835f05d.js": "/contactmanager/precache-manifest.6778c44edbf19bfc11c331a29835f05d.js",
-    "service-worker.js": "/contactmanager/service-worker.js",
-    "static/css/2.69121389.chunk.css.map": "/contactmanager/static/css/2.69121389.chunk.css.map",
-    "static/css/main.5ecd60fb.chunk.css.map": "/contactmanager/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.8bcf9d0b.chunk.js.LICENSE.txt": "/contactmanager/static/js/2.8bcf9d0b.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/contactmanager/static/media/logo.5d5d9eef.svg"
+    "main.css": "/amandeep231/contactmanager/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/amandeep231/contactmanager/static/js/main.ba49dd5f.chunk.js",
+    "main.js.map": "/amandeep231/contactmanager/static/js/main.ba49dd5f.chunk.js.map",
+    "runtime-main.js": "/amandeep231/contactmanager/static/js/runtime-main.552bee58.js",
+    "runtime-main.js.map": "/amandeep231/contactmanager/static/js/runtime-main.552bee58.js.map",
+    "static/css/2.69121389.chunk.css": "/amandeep231/contactmanager/static/css/2.69121389.chunk.css",
+    "static/js/2.8bcf9d0b.chunk.js": "/amandeep231/contactmanager/static/js/2.8bcf9d0b.chunk.js",
+    "static/js/2.8bcf9d0b.chunk.js.map": "/amandeep231/contactmanager/static/js/2.8bcf9d0b.chunk.js.map",
+    "index.html": "/amandeep231/contactmanager/index.html",
+    "precache-manifest.aeefc85fe6e998aacdf668eede4e818e.js": "/amandeep231/contactmanager/precache-manifest.aeefc85fe6e998aacdf668eede4e818e.js",
+    "service-worker.js": "/amandeep231/contactmanager/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/amandeep231/contactmanager/static/css/2.69121389.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/amandeep231/contactmanager/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.8bcf9d0b.chunk.js.LICENSE.txt": "/amandeep231/contactmanager/static/js/2.8bcf9d0b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/amandeep231/contactmanager/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7557c545.js",
+    "static/js/runtime-main.552bee58.js",
     "static/css/2.69121389.chunk.css",
     "static/js/2.8bcf9d0b.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.23ac5af7.chunk.js"
+    "static/js/main.ba49dd5f.chunk.js"
   ]
 }
